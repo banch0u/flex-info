@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+    gap: 52px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.box{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
